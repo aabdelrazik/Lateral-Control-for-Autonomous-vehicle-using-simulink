@@ -1,0 +1,12 @@
+# Simulink / Stateflow build & cache artifacts (auto-regenerated on open/run)
+slprj/
+*.slxc
+*.autosave
+
+# MATLAB session/backup files
+*.asv
+*.m~
+
+# OS cruft
+.DS_Store
+Thumbs.db

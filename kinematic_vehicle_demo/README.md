@@ -1,3 +1,9 @@
+> **Note:** This folder is a standalone demo (not the PID lateral-control project itself — see the
+> [repo root README](../README.md) for that). It's Marc Compere's original 2D kinematic vehicle
+> steering/visualization template, kept here for reference since it's part of this project's history.
+> A few paths mentioned below (`anim_sequences/`, `Documentation/`) refer to files from the original
+> template that were never included in this repository.
+
 -------------------------------------------------------------------------------
 This is the Readme file for a simple 2D kinematic vehicle's steering motion and visualzation implemented in Matlab's Simulink. There are no special libraries or additional toolboxes required.
 
