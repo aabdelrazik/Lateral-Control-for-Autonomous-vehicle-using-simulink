@@ -134,8 +134,12 @@ startup.m                  Run first: adds every folder above to the MATLAB path
   that MATLAB app's session format, not something fixable by reorganizing files). If reopening a
   session doesn't relink automatically, just re-run `control_design/Root_Locus_control_model.slx`
   directly.
-- No license file is included — all rights reserved by default. Add a `LICENSE` file if you want
-  to formally permit reuse.
+
+## License
+
+[MIT](LICENSE) for the project's own work (`control_design/`, `docs/`, `startup.m`). The
+third-party folders keep their original terms: `lateral_control_tutorial/` (MathWorks) and
+`kinematic_vehicle_demo/` (Marc Compere). See [`LICENSE`](LICENSE) for details.
 
 ## Credits
 
@@ -143,3 +147,7 @@ startup.m                  Run first: adds every folder above to the MATLAB path
   (Automated Driving Toolbox) for the vehicle/environment plant.
 - `kinematic_vehicle_demo/` is Marc Compere's 2D kinematic vehicle steering & animation template.
 - Project: Ahmed Hamdy, Ahmed Sami, Abdelrahman Abbas — RIE 307 Control Systems.
+
+---
+
+**Ahmed H. Abdelrazik** · [aabdelrazik.github.io](https://aabdelrazik.github.io)
