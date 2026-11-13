@@ -139,7 +139,7 @@ startup.m                  Run first: adds every folder above to the MATLAB path
 
 [MIT](LICENSE) for the project's own work (`control_design/`, `docs/`, `startup.m`). The
 third-party folders keep their original terms: `lateral_control_tutorial/` (MathWorks) and
-`kinematic_vehicle_demo/` (Marc Compere). See [`LICENSE`](LICENSE) for details.
+`kinematic_vehicle_demo/` (Marc Compere). See [`LICENSE`](LICENSE) and [`NOTICE`](NOTICE).
 
 ## Credits
 

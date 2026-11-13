@@ -1,0 +1,8 @@
+Scope: the MIT license in LICENSE covers the project's own work (control_design/, docs/,
+startup.m and the README). It does not cover third-party code included for
+convenience:
+
+- lateral_control_tutorial/ is based on MathWorks' Automated Driving Toolbox
+  "Lateral Control Tutorial" example and remains under MathWorks' terms.
+- kinematic_vehicle_demo/ is Marc Compere's 2D kinematic vehicle template and
+  remains under its author's terms.
